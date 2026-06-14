@@ -25,6 +25,7 @@ huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+pydantic
 
 # Kernel Install
 ipykernel
