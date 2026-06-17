@@ -27,6 +27,7 @@ huggingface-hub
 python-dotenv
 pydantic
 streamlit
+pydantic[email]
 
 # Kernel Install
 ipykernel
