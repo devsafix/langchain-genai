@@ -29,6 +29,7 @@ python-dotenv
 pydantic
 streamlit
 pydantic[email]
+grandalf
 
 # Kernel Install
 ipykernel
