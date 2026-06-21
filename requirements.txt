@@ -4,6 +4,9 @@ langgraph
 langchain-core
 langchain_community
 langchain-classic
+duckduckgo-search
+langchain_experimental
+ddgs
 
 # OpenAI Integration
 langchain-openai
