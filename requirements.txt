@@ -1,12 +1,14 @@
 # LangChain Core
 langchain
 langgraph
+langsmith
 langchain-core
 langchain_community
 langchain-classic
 duckduckgo-search
 langchain_experimental
 ddgs
+langchainhub
 
 # OpenAI Integration
 langchain-openai
