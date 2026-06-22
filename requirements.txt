@@ -9,6 +9,7 @@ duckduckgo-search
 langchain_experimental
 ddgs
 langchainhub
+beautifulsoup4
 
 # OpenAI Integration
 langchain-openai
@@ -35,6 +36,7 @@ pydantic
 streamlit
 pydantic[email]
 grandalf
+pypdf
 
 # Kernel Install
 ipykernel
